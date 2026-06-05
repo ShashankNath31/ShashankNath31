@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Shashank Nath and I'm a final year Btech CSE student  from Uttaranchal University ,Dehradun</h2>
+<h2 align="left">Hi 👋! My name is Shashank Nath and I'm a Computer Science graduate with hands-on experience in C#, .NET, ASP.NET Core, Entity Framework Core, MySQL, and REST API development</h2>
 
 ###
 
