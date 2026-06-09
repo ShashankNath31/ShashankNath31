@@ -1,19 +1,19 @@
 
 <br clear="both">
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 <h1 align="center">Hi 👋, I'm Shashank Nath</h1>
 
-<h3 align="center">
-Software Developer | C# • .NET • Java • Spring Boot • ASP.NET Core • REST APIs
+<h3 align="left">
+Software Developer | C# • .NET • Java • Spring Boot • ASP.NET Core
 </h3>
 
-<p align="center">
+<p align="left">
 Computer Science graduate with hands-on experience in backend development using C#, .NET, ASP.NET Core, Entity Framework Core, Java, Spring Boot, MySQL, and RESTful APIs.
 Passionate about building scalable applications, learning modern software architecture, and solving real-world problems through technology.
 </p>
 
 ---
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 <div align="right">
 
@@ -25,9 +25,7 @@ Passionate about building scalable applications, learning modern software archit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="65" />
-</p>
 
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="65" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" />
