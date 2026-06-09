@@ -1,69 +1,181 @@
-<br clear="both">
-
-<h2 align="left">Hi 👋! My name is Shashank Nath and I'm a Computer Science graduate with hands-on experience in C#, .NET, ASP.NET Core, Entity Framework Core, MySQL, and REST API development</h2>
-
-###
-
-<img align="left" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-</div>
-
-###
-
-<div align="right">
-  <a href="https://www.instagram.com/shashank_nath/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.shashanknath31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shashank-nath-b489ab27a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
+
+<h1 align="center">Hi 👋, I'm Shashank Nath</h1>
+
+<h3 align="center">
+Software Developer | C# • .NET • Java • Spring Boot • ASP.NET Core • REST APIs
+</h3>
+
+<p align="center">
+Computer Science graduate with hands-on experience in backend development using C#, .NET, ASP.NET Core, Entity Framework Core, Java, Spring Boot, MySQL, and RESTful APIs.
+Passionate about building scalable applications, learning modern software architecture, and solving real-world problems through technology.
+</p>
+
+---
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+<div align="right">
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="65" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="65" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="65" />
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="65" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" />
+</p>
+
+</div>
+
+<br clear="both">
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (CGPA: 8.34)
+- 💻 Software Developer with experience in .NET and Java technologies
+- 🔭 Building backend applications using ASP.NET Core, Entity Framework Core, and Spring Boot
+- 🌱 Currently learning Advanced .NET, Microservices, Clean Architecture, and Angular
+- 🏗️ Interested in Backend Development, API Design, and Software Architecture
+- 📫 Reach me at **shashanknath31@gmail.com**
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Frameworks & Technologies
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend & APIs
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-202020?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+### 🏢 Employee Management System
+**ASP.NET Core Web API | C# | Entity Framework Core | MySQL**
+
+- JWT Authentication
+- CRUD Operations
+- Layered Architecture
+- REST APIs
+- Database Integration
+
+### 🚗 Claim Insurance Platform
+**Spring Boot | Microservices | REST APIs**
+
+- Vehicle Claim Processing
+- API Gateway Integration
+- Service Communication
+- Distributed Architecture
+
+### 🌐 Portfolio Website
+
+- Responsive Design
+- Personal Branding
+- Project Showcase
+
+### 🧠 Artificial Nemesis Research Paper
+
+- Research on future AI threats and challenges
+
+### 🎮 Memory Game
+
+- Java
+- OOP Concepts
+- Event Handling
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:shashanknath31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shashank-nath-b489ab27a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ShashankNath31">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashankNath31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashankNath31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShashankNath31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashankNath31&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShashankNath31&theme=github_dark" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🔥 GitHub Streak
 
-<img src="https://raw.githubusercontent.com/ShashankNath31/ShashankNath31/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShashankNath31&theme=dracula" height="150" />
+</div>
 
-###
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShashankNath31/ShashankNath31/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced C# & .NET
+- ASP.NET Core Web API
+- Entity Framework Core
+- Microservices Architecture
+- Spring Boot
+- Angular
+- Clean Architecture
+- System Design
+
