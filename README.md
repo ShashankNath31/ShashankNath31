@@ -1,11 +1,12 @@
 
 <br clear="both">
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 
 <h1 align="center">Hi 👋, I'm Shashank Nath</h1>
 
 <h3 align="left">
 Software Developer | C# • .NET • Java • Spring Boot • ASP.NET Core
+  <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </h3>
 
 <p align="left">
@@ -15,27 +16,26 @@ Passionate about building scalable applications, learning modern software archit
 
 ---
 
-<div align="right">
-
+<div>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="65" />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="65" />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="65" />
-
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="65" />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" />
 </p>
-
 </div>
-
 <br clear="both">
+
+---
 
 ## 🚀 About Me
 
