@@ -6,7 +6,7 @@
 
 <h3 align="left">
 Software Developer | C# • .NET • Java • Spring Boot • ASP.NET Core
-  <img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+  <img align="right" height="110" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl0cGJvZW9yd2Vibmsyb2Q3aXUyb2VqcDdoOXR2NWtseHpjYWxrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </h3>
 
 <p align="left">
