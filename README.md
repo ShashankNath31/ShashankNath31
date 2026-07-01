@@ -127,7 +127,7 @@ Passionate about building scalable applications, learning modern software archit
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shashank-nath-b489ab27a/">
+  <a href="https://www.linkedin.com/in/shashank-nath31">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
